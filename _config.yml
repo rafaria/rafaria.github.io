@@ -16,7 +16,7 @@ timezone: America/Sao_Paulo
 
 title: Conectando os endpoints e achando as rotas # the main title
 
-tagline: Point 2 Point # it will display as the subtitle
+tagline: Point 2 Point # it will display as the subtitlgit
 
 description: >- # used by seo meta and the atom feed
   Resumo de estudos e outras coisas que não gostaria de esquecer :)
