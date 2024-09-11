@@ -14,9 +14,9 @@ timezone: America/Sao_Paulo
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Conectando os endpoints e achando as rotas # the main title
+title: Point 2 Point # the main title
 
-tagline: Point 2 Point # it will display as the subtitlgit
+tagline:  Docs, estudos, arquivos e o que mais achar interessante. # it will display as the subtitlgit
 
 description: Resumo de estudos e outras coisas que não gostaria de esquecer # used by seo meta and the atom feed
    
